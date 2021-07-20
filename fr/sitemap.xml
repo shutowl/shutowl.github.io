@@ -26,6 +26,18 @@
                 href="https://shutowl.github.io/fr/"
                 />
   </url><url>
+    <loc>https://shutowl.github.io/fr/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shutowl.github.io/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://shutowl.github.io/fr/series/"
+                />
+  </url><url>
     <loc>https://shutowl.github.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"

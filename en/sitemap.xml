@@ -2,10 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shutowl.github.io/blogs/</loc>
-    <lastmod>2021-07-19T21:54:05-07:00</lastmod>
-  </url><url>
-    <loc>https://shutowl.github.io/blogs/day-1/</loc>
+    <loc>https://shutowl.github.io/blog/</loc>
     <lastmod>2021-07-19T21:54:05-07:00</lastmod>
   </url><url>
     <loc>https://shutowl.github.io/</loc>
@@ -20,6 +17,9 @@
                 hreflang="en"
                 href="https://shutowl.github.io/"
                 />
+  </url><url>
+    <loc>https://shutowl.github.io/blog/day-1/</loc>
+    <lastmod>2021-07-19T21:54:05-07:00</lastmod>
   </url><url>
     <loc>https://shutowl.github.io/music/</loc>
     <lastmod>2021-07-19T21:49:22-07:00</lastmod>
@@ -40,6 +40,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://shutowl.github.io/categories/"
+                />
+  </url><url>
+    <loc>https://shutowl.github.io/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://shutowl.github.io/fr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shutowl.github.io/series/"
                 />
   </url><url>
     <loc>https://shutowl.github.io/tags/</loc>
