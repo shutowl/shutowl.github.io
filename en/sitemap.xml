@@ -9,8 +9,8 @@
     <lastmod>2021-07-19T21:54:05-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://shutowl.github.io/fr/"
+                hreflang="jp"
+                href="https://shutowl.github.io/jp/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -18,23 +18,29 @@
                 href="https://shutowl.github.io/"
                 />
   </url><url>
-    <loc>https://shutowl.github.io/blog/day-1/</loc>
+    <loc>https://shutowl.github.io/blog/beginning-of-website/</loc>
     <lastmod>2021-07-19T21:54:05-07:00</lastmod>
   </url><url>
-    <loc>https://shutowl.github.io/music/</loc>
-    <lastmod>2021-07-19T21:49:22-07:00</lastmod>
-  </url><url>
-    <loc>https://shutowl.github.io/music/the-lumen-lounge/</loc>
-    <lastmod>2021-07-19T21:49:22-07:00</lastmod>
-  </url><url>
     <loc>https://shutowl.github.io/about/</loc>
+    <lastmod>2021-07-19T21:49:09-07:00</lastmod>
+  </url><url>
+    <loc>https://shutowl.github.io/art/</loc>
+    <lastmod>2021-07-19T21:49:09-07:00</lastmod>
+  </url><url>
+    <loc>https://shutowl.github.io/games/</loc>
+    <lastmod>2021-07-19T21:49:09-07:00</lastmod>
+  </url><url>
+    <loc>https://shutowl.github.io/markdown-reference/</loc>
+    <lastmod>2021-07-19T21:49:09-07:00</lastmod>
+  </url><url>
+    <loc>https://shutowl.github.io/music/</loc>
     <lastmod>2021-07-19T21:49:09-07:00</lastmod>
   </url><url>
     <loc>https://shutowl.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://shutowl.github.io/fr/categories/"
+                hreflang="jp"
+                href="https://shutowl.github.io/jp/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -45,8 +51,8 @@
     <loc>https://shutowl.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://shutowl.github.io/fr/series/"
+                hreflang="jp"
+                href="https://shutowl.github.io/jp/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -57,8 +63,8 @@
     <loc>https://shutowl.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://shutowl.github.io/fr/tags/"
+                hreflang="jp"
+                href="https://shutowl.github.io/jp/tags/"
                 />
     <xhtml:link
                 rel="alternate"

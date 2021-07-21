@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KShut&#39;s Devlog</title>
+    <title>KShut&#39;s Portfolio</title>
     <link>https://shutowl.github.io/</link>
-    <description>Recent content on KShut&#39;s Devlog</description>
+    <description>Recent content on KShut&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 19 Jul 2021 21:54:05 -0700</lastBuildDate><atom:link href="https://shutowl.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The beginning of the website</title>
-      <link>https://shutowl.github.io/blog/day-1/</link>
+      <link>https://shutowl.github.io/blog/beginning-of-website/</link>
       <pubDate>Mon, 19 Jul 2021 21:54:05 -0700</pubDate>
       
-      <guid>https://shutowl.github.io/blog/day-1/</guid>
-      <description>&lt;p&gt;Today I felt like making a website. I mean, I had always meant to do it at one point,
+      <guid>https://shutowl.github.io/blog/beginning-of-website/</guid>
+      <description>&lt;h5 id=&#34;posted-on-july-19-2021&#34;&gt;Posted on July 19, 2021&lt;/h5&gt;
+&lt;p&gt;Today I felt like making a website. I mean, I had always meant to do it at one point,
 but I had always put it off until today. &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt; and &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; 
 made it seem like it would be pretty easy to make one, but boy was I wrong. I spent pretty much all day trying to get it
-to work, but at least it seems to work now, even if it does looks pretty barebones right now.
+to work, but at least it seems to work now, even if it does look pretty barebones right now.
 I still gotta learn a bunch of stuff to make this blog look a little better, so I&amp;rsquo;ll work
 on this website for now before diving into other things.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://shutowl.github.io/images/pochigga.png&#34; alt=&#34;maidpochita&#34;&gt;&lt;/p&gt;
@@ -25,21 +26,150 @@ on this website for now before diving into other things.&lt;/p&gt;
     </item>
     
     <item>
-      <title>The Lumen Lounge</title>
-      <link>https://shutowl.github.io/music/the-lumen-lounge/</link>
-      <pubDate>Mon, 19 Jul 2021 21:49:22 -0700</pubDate>
-      
-      <guid>https://shutowl.github.io/music/the-lumen-lounge/</guid>
-      <description>&lt;h1 id=&#34;descriptive-text-here&#34;&gt;Descriptive text here&amp;hellip;&lt;/h1&gt;</description>
-    </item>
-    
-    <item>
-      <title>About</title>
+      <title>About me - basically a resume</title>
       <link>https://shutowl.github.io/about/</link>
       <pubDate>Mon, 19 Jul 2021 21:49:09 -0700</pubDate>
       
       <guid>https://shutowl.github.io/about/</guid>
-      <description>&lt;h1 id=&#34;unfinished-about-page&#34;&gt;unfinished about page&lt;/h1&gt;</description>
+      <description>&lt;h3 id=&#34;profile&#34;&gt;Profile&lt;/h3&gt;
+&lt;p&gt;enter stuff here&lt;/p&gt;
+&lt;h3 id=&#34;point-2&#34;&gt;Point 2&lt;/h3&gt;
+&lt;p&gt;more stuff here&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bullet point&lt;/li&gt;
+&lt;li&gt;Bullet point&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;point-3&#34;&gt;Point 3&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Art</title>
+      <link>https://shutowl.github.io/art/</link>
+      <pubDate>Mon, 19 Jul 2021 21:49:09 -0700</pubDate>
+      
+      <guid>https://shutowl.github.io/art/</guid>
+      <description>&lt;p&gt;layout idea kinda like &lt;a href=&#34;https://www.avogado6.com/&#34;&gt;this&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Games</title>
+      <link>https://shutowl.github.io/games/</link>
+      <pubDate>Mon, 19 Jul 2021 21:49:09 -0700</pubDate>
+      
+      <guid>https://shutowl.github.io/games/</guid>
+      <description>&lt;p&gt;embed links + pictures&lt;br&gt;
+layout could like:&lt;br&gt;
+summary&amp;hellip;&amp;hellip;.image/gif&lt;br&gt;
+image/gif&amp;hellip;..summary&lt;br&gt;
+summary&amp;hellip;&amp;hellip;.image/gif&lt;br&gt;
+etc.
+links could be embed to &lt;a href=&#34;https://itch.io/&#34;&gt;itch.io&lt;/a&gt; or something&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Markdown References</title>
+      <link>https://shutowl.github.io/markdown-reference/</link>
+      <pubDate>Mon, 19 Jul 2021 21:49:09 -0700</pubDate>
+      
+      <guid>https://shutowl.github.io/markdown-reference/</guid>
+      <description>&lt;h3 id=&#34;check-md-file-for-more-details&#34;&gt;Check md file for more details&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;header1&#34;&gt;header1&lt;/h1&gt;
+&lt;h2 id=&#34;header2&#34;&gt;header2&lt;/h2&gt;
+&lt;h3 id=&#34;custom-id&#34;&gt;header3&lt;/h3&gt;
+&lt;h4 id=&#34;header4&#34;&gt;header4&lt;/h4&gt;
+&lt;h5 id=&#34;header5&#34;&gt;header5&lt;/h5&gt;
+&lt;h6 id=&#34;header6&#34;&gt;header6&lt;/h6&gt;
+&lt;h1 id=&#34;header1-1&#34;&gt;header1&lt;/h1&gt;
+&lt;h2 id=&#34;header2-1&#34;&gt;header2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://link.com&#34;&gt;http://link.com&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://link.com&#34; title=&#34;click for link&#34;&gt;tool tip link&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://link.com&#34;&gt;ref link&lt;/a&gt;&lt;br&gt;
+&lt;code&gt;http:/disabled-link.com&lt;/code&gt;&lt;br&gt;
+&lt;em&gt;italics&lt;/em&gt; &lt;strong&gt;bold&lt;/strong&gt; &lt;em&gt;&lt;strong&gt;bold italics&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;italics&lt;/em&gt; &lt;strong&gt;bold&lt;/strong&gt; &lt;em&gt;&lt;strong&gt;bold italics&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;
+&lt;del&gt;strikethrough&lt;/del&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;table&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;table 2&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;table 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;header&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;title&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;text&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;paragraph&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;text&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;text&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;left align&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;p&gt;&amp;ldquo;&amp;amp; # 1 2 4 ;&amp;rdquo; (without spaces) = |&lt;/p&gt;
+&lt;p&gt;inline &lt;code&gt;code text&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;  java codeblocks
+  &lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; i &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; 5
+  &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;test&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;//test
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;  regular codeblocks
+&lt;/code&gt;&lt;/pre&gt;&lt;blockquote&gt;
+&lt;p&gt;Blockquotes&lt;br&gt;
+blockquotes &lt;em&gt;continued&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;dl&gt;
+&lt;dt&gt;footnote &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/dt&gt;
+&lt;dt&gt;Term&lt;/dt&gt;
+&lt;dd&gt;Definition&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;&lt;strong&gt;Task List&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; task 1&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; task 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Emoji test&lt;/strong&gt;&lt;br&gt;
+😂 🍆 👄 👄&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bullet 1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;bullet 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;bullet 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;item 1&lt;/li&gt;
+&lt;li&gt;item 2&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;ref-style image&lt;/strong&gt;
+&lt;img src=&#34;https://shutowl.github.io/images/pochigga.png&#34; alt=&#34;image name&#34;&gt;
+position and resize must be done in html or css&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;horizontal lines&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;youtube link&lt;/strong&gt;
+&lt;a href=&#34;http://www.youtube.com/watch?v=VAC-5BQnuXI&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/VAC-5BQnuXI/0.jpg&#34; alt=&#34;youtube link&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://shutowl.github.io/music/</link>
+      <pubDate>Mon, 19 Jul 2021 21:49:09 -0700</pubDate>
+      
+      <guid>https://shutowl.github.io/music/</guid>
+      <description>&lt;p&gt;embed soundcloud stuff here I guess&lt;/p&gt;</description>
     </item>
     
   </channel>

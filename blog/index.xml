@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on KShut&#39;s Devlog</title>
+    <title>Blogs on KShut&#39;s Portfolio</title>
     <link>https://shutowl.github.io/blog/</link>
-    <description>Recent content in Blogs on KShut&#39;s Devlog</description>
+    <description>Recent content in Blogs on KShut&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 19 Jul 2021 21:54:05 -0700</lastBuildDate><atom:link href="https://shutowl.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The beginning of the website</title>
-      <link>https://shutowl.github.io/blog/day-1/</link>
+      <link>https://shutowl.github.io/blog/beginning-of-website/</link>
       <pubDate>Mon, 19 Jul 2021 21:54:05 -0700</pubDate>
       
-      <guid>https://shutowl.github.io/blog/day-1/</guid>
-      <description>&lt;p&gt;Today I felt like making a website. I mean, I had always meant to do it at one point,
+      <guid>https://shutowl.github.io/blog/beginning-of-website/</guid>
+      <description>&lt;h5 id=&#34;posted-on-july-19-2021&#34;&gt;Posted on July 19, 2021&lt;/h5&gt;
+&lt;p&gt;Today I felt like making a website. I mean, I had always meant to do it at one point,
 but I had always put it off until today. &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt; and &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; 
 made it seem like it would be pretty easy to make one, but boy was I wrong. I spent pretty much all day trying to get it
-to work, but at least it seems to work now, even if it does looks pretty barebones right now.
+to work, but at least it seems to work now, even if it does look pretty barebones right now.
 I still gotta learn a bunch of stuff to make this blog look a little better, so I&amp;rsquo;ll work
 on this website for now before diving into other things.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://shutowl.github.io/images/pochigga.png&#34; alt=&#34;maidpochita&#34;&gt;&lt;/p&gt;

@@ -1,0 +1,20 @@
+.post-content p {
+    text-align: justify;
+}
+
+H2 { 
+	text-align: center;
+	display: block
+}
+
+H5 {
+	font-weight: normal;
+	display: block;
+	text-align: center
+}
+
+H6 {
+	font-weight: normal;
+	display: block;
+	text-align: center
+}
