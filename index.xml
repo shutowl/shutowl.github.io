@@ -7,7 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 19 Jul 2021 21:54:05 -0700</lastBuildDate><atom:link href="https://shutowl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Jul 2021 19:36:18 -0700</lastBuildDate><atom:link href="https://shutowl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Image Resizing and Soundcloud embeds</title>
+      <link>https://shutowl.github.io/blog/image-resizing/</link>
+      <pubDate>Wed, 21 Jul 2021 19:36:18 -0700</pubDate>
+      
+      <guid>https://shutowl.github.io/blog/image-resizing/</guid>
+      <description>&lt;h5 id=&#34;posted-on-july-21-2021&#34;&gt;Posted on July 21, 2021&lt;/h5&gt;
+&lt;h3 id=&#34;image-resizing&#34;&gt;Image resizing&lt;/h3&gt;
+&lt;p&gt;&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;https://shutowl.github.io/images/pochigga.png&#34;
+         alt=&#34;pochita&#34; width=&#34;1000&#34; height=&#34;100&#34;/&gt;
+&lt;/figure&gt;
+
+I finally figured out how to resize images through Hugo shortcodes.
+I mean, just look at this &lt;em&gt;L O N G&lt;/em&gt; boi. He seems to be trapped in some 
+pretty strict margins, but it&amp;rsquo;s fine as it is.
+I can also make him a &lt;em&gt;T A L L&lt;/em&gt; boi too.
+&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;https://shutowl.github.io/images/pochigga.png&#34;
+         alt=&#34;pochita&#34; width=&#34;100&#34; height=&#34;300&#34;/&gt;
+&lt;/figure&gt;
+
+I can also position him properly:
+&lt;figure class=&#34;left&#34;&gt;&lt;img src=&#34;https://shutowl.github.io/images/pochigga.png&#34;
+         alt=&#34;pochita&#34; width=&#34;60&#34; height=&#34;60&#34;/&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;https://shutowl.github.io/images/pochigga.png&#34;
+         alt=&#34;pochita&#34; width=&#34;60&#34; height=&#34;60&#34;/&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&#34;right&#34;&gt;&lt;img src=&#34;https://shutowl.github.io/images/pochigga.png&#34;
+         alt=&#34;pochita&#34; width=&#34;60&#34; height=&#34;60&#34;/&gt;
+&lt;/figure&gt;
+
+This is the only image I have so far, but I&amp;rsquo;ll add some more later.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;soundcloud-embeds&#34;&gt;Soundcloud embeds&lt;/h3&gt;
+&lt;p&gt;I also managed to get soundcloud embeds working through shortcodes as well.
+As a dark theme user, I don&amp;rsquo;t really like their white background. There&amp;rsquo;s probably
+a way to change it through CSS or HTML, but I haven&amp;rsquo;t found a solution yet.&lt;/p&gt;
+&lt;p&gt;For now, they&amp;rsquo;ll just look like this:&lt;/p&gt;
+&lt;p&gt;&lt;script src=&#34;http://w.soundcloud.com/player/api.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+
+&lt;iframe
+    width=&#34;100%&#34;
+    height=&#34;120&#34;
+    scrolling=&#34;no&#34;
+    frameborder=&#34;no&#34;
+    allow=&#34;autoplay&#34;
+    src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1086448648&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;
+&gt;&lt;/iframe&gt;
+	&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>The beginning of the website</title>
       <link>https://shutowl.github.io/blog/beginning-of-website/</link>
@@ -169,7 +222,61 @@ position and resize must be done in html or css&lt;/p&gt;
       <pubDate>Mon, 19 Jul 2021 21:49:09 -0700</pubDate>
       
       <guid>https://shutowl.github.io/music/</guid>
-      <description>&lt;p&gt;embed soundcloud stuff here I guess&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;script src=&#34;http://w.soundcloud.com/player/api.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+
+&lt;iframe
+    width=&#34;100%&#34;
+    height=&#34;120&#34;
+    scrolling=&#34;no&#34;
+    frameborder=&#34;no&#34;
+    allow=&#34;autoplay&#34;
+    src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1086448648&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;
+&gt;&lt;/iframe&gt;
+	&lt;!-- raw HTML omitted --&gt;
+&lt;script src=&#34;http://w.soundcloud.com/player/api.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+
+&lt;iframe
+    width=&#34;100%&#34;
+    height=&#34;120&#34;
+    scrolling=&#34;no&#34;
+    frameborder=&#34;no&#34;
+    allow=&#34;autoplay&#34;
+    src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1028332495&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;
+&gt;&lt;/iframe&gt;
+   &lt;!-- raw HTML omitted --&gt;
+&lt;script src=&#34;http://w.soundcloud.com/player/api.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+
+&lt;iframe
+    width=&#34;100%&#34;
+    height=&#34;120&#34;
+    scrolling=&#34;no&#34;
+    frameborder=&#34;no&#34;
+    allow=&#34;autoplay&#34;
+    src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/862940944&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;
+&gt;&lt;/iframe&gt;
+    &lt;!-- raw HTML omitted --&gt;
+&lt;script src=&#34;http://w.soundcloud.com/player/api.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+
+&lt;iframe
+    width=&#34;100%&#34;
+    height=&#34;120&#34;
+    scrolling=&#34;no&#34;
+    frameborder=&#34;no&#34;
+    allow=&#34;autoplay&#34;
+    src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/811163464&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;
+&gt;&lt;/iframe&gt;
+    &lt;!-- raw HTML omitted --&gt;
+&lt;script src=&#34;http://w.soundcloud.com/player/api.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+
+&lt;iframe
+    width=&#34;100%&#34;
+    height=&#34;120&#34;
+    scrolling=&#34;no&#34;
+    frameborder=&#34;no&#34;
+    allow=&#34;autoplay&#34;
+    src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/559166565&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;
+&gt;&lt;/iframe&gt;
+    &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
