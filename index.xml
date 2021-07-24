@@ -16,31 +16,72 @@
       <guid>https://shutowl.github.io/blog/image-resizing/</guid>
       <description>&lt;h5 id=&#34;posted-on-july-21-2021&#34;&gt;Posted on July 21, 2021&lt;/h5&gt;
 &lt;h3 id=&#34;image-resizing&#34;&gt;Image resizing&lt;/h3&gt;
-&lt;p&gt;&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;https://shutowl.github.io/images/pochigga.png&#34;
-         alt=&#34;pochita&#34; width=&#34;1000&#34; height=&#34;100&#34;/&gt;
-&lt;/figure&gt;
+&lt;p&gt;
+    &lt;img 
+	src=&#34;https://shutowl.github.io/images/pochigga.png&#34;  
+	alt=&#34;pochita&#34;  
+	class=&#34;left&#34;  
+	width=&#34;1000&#34; 
+	height=&#34;100&#34;
+	/&gt;
+
+
 
 I finally figured out how to resize images through Hugo shortcodes.
 I mean, just look at this &lt;em&gt;L O N G&lt;/em&gt; boi. He seems to be trapped in some 
 pretty strict margins, but it&amp;rsquo;s fine as it is.
 I can also make him a &lt;em&gt;T A L L&lt;/em&gt; boi too.
-&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;https://shutowl.github.io/images/pochigga.png&#34;
-         alt=&#34;pochita&#34; width=&#34;100&#34; height=&#34;300&#34;/&gt;
-&lt;/figure&gt;
+
+    &lt;img 
+	src=&#34;https://shutowl.github.io/images/pochigga.png&#34;  
+	alt=&#34;pochita&#34;  
+	class=&#34;left&#34;  
+	style=&#34;float: center;&#34;  
+	width=&#34;100&#34; 
+	height=&#34;300&#34;
+	/&gt;
+
+
 
 I can also position him properly:
-&lt;figure class=&#34;left&#34;&gt;&lt;img src=&#34;https://shutowl.github.io/images/pochigga.png&#34;
-         alt=&#34;pochita&#34; width=&#34;60&#34; height=&#34;60&#34;/&gt;
-&lt;/figure&gt;
+&lt;br&gt;
 
-&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;https://shutowl.github.io/images/pochigga.png&#34;
-         alt=&#34;pochita&#34; width=&#34;60&#34; height=&#34;60&#34;/&gt;
-&lt;/figure&gt;
+    &lt;img 
+	src=&#34;https://shutowl.github.io/images/pochigga.png&#34;  
+	alt=&#34;pochita&#34;  
+	class=&#34;left&#34;  
+	style=&#34;float: left;&#34;  
+	width=&#34;60&#34; 
+	height=&#34;60&#34;
+	/&gt;
 
-&lt;figure class=&#34;right&#34;&gt;&lt;img src=&#34;https://shutowl.github.io/images/pochigga.png&#34;
-         alt=&#34;pochita&#34; width=&#34;60&#34; height=&#34;60&#34;/&gt;
-&lt;/figure&gt;
 
+
+
+    &lt;img 
+	src=&#34;https://shutowl.github.io/images/pochigga.png&#34;  
+	alt=&#34;pochita&#34;  
+	class=&#34;left&#34;  
+	style=&#34;float: right;&#34;  
+	width=&#34;60&#34; 
+	height=&#34;60&#34;
+	/&gt;
+
+
+
+
+    &lt;img 
+	src=&#34;https://shutowl.github.io/images/pochigga.png&#34;  
+	alt=&#34;pochita&#34;  
+	class=&#34;left&#34;  
+	style=&#34;margin-left: auto; margin-right: auto; display: block;&#34;  
+	width=&#34;60&#34; 
+	height=&#34;60&#34;
+	/&gt;
+
+
+
+&lt;br&gt;
 This is the only image I have so far, but I&amp;rsquo;ll add some more later.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;soundcloud-embeds&#34;&gt;Soundcloud embeds&lt;/h3&gt;
@@ -101,7 +142,71 @@ on this website for now before diving into other things.&lt;/p&gt;
       <pubDate>Mon, 19 Jul 2021 21:49:09 -0700</pubDate>
       
       <guid>https://shutowl.github.io/art/</guid>
-      <description>&lt;p&gt;layout idea kinda like &lt;a href=&#34;https://www.avogado6.com/&#34;&gt;this&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;layout idea kinda like &lt;a href=&#34;https://www.avogado6.com/&#34;&gt;this&lt;/a&gt;
+
+
+
+
+
+&lt;figure
+  class=&#34;floatleft&#34;
+  
+  
+  &gt;
+    &lt;a 
+      
+        data-lightbox=&#34;asdf&#34;
+      
+      
+        href=&#34;https://shutowl.github.io/images/pochigga.png%22&#34;
+      
+    
+    &gt;
+  &lt;img
+      
+        src=&#34;https://shutowl.github.io/images/pochigga.png%22&#34;
+      
+        
+        
+         /&gt;
+    &lt;/a&gt;
+  
+  
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;figure
+  class=&#34;floatright&#34;
+  
+  
+  &gt;
+    &lt;a 
+      
+        data-lightbox=&#34;asdf&#34;
+      
+      
+        href=&#34;https://shutowl.github.io/images/placeholder.jpg%22&#34;
+      
+    
+    &gt;
+  &lt;img
+      
+        src=&#34;https://shutowl.github.io/images/placeholder.jpg%22&#34;
+      
+        
+        
+         /&gt;
+    &lt;/a&gt;
+  
+  
+&lt;/figure&gt;
+
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -110,13 +215,73 @@ on this website for now before diving into other things.&lt;/p&gt;
       <pubDate>Mon, 19 Jul 2021 21:49:09 -0700</pubDate>
       
       <guid>https://shutowl.github.io/games/</guid>
-      <description>&lt;p&gt;embed links + pictures&lt;br&gt;
-layout could like:&lt;br&gt;
-summary&amp;hellip;&amp;hellip;.image/gif&lt;br&gt;
-image/gif&amp;hellip;..summary&lt;br&gt;
-summary&amp;hellip;&amp;hellip;.image/gif&lt;br&gt;
-etc.
-links could be embed to &lt;a href=&#34;https://itch.io/&#34;&gt;itch.io&lt;/a&gt; or something&lt;/p&gt;</description>
+      <description>&lt;img 
+	src=&#34;https://shutowl.github.io/images/placeholder.jpg&#34;  
+	alt=&#34;placeholder&#34;  
+	class=&#34;left&#34;  
+	style=&#34;float: right; margin: 1rem;&#34;  
+	width=&#34;400&#34; 
+	height=&#34;300&#34;
+	/&gt;
+
+
+
+&lt;h3 id=&#34;placeholder-titlehttpsitchio&#34;&gt;&lt;a href=&#34;https://itch.io/&#34;&gt;Placeholder Title&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Summary of the game. Something that is a few sentences
+long and describes the hook and gameplay. 
+Something that&amp;rsquo;ll sell the players in on the experience.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+    &lt;img 
+	src=&#34;https://shutowl.github.io/images/placeholder.jpg&#34;  
+	alt=&#34;placeholder&#34;  
+	class=&#34;left&#34;  
+	style=&#34;float: left; margin: 1rem;&#34;  
+	width=&#34;400&#34; 
+	height=&#34;300&#34;
+	/&gt;
+
+
+&lt;/p&gt;
+&lt;h3 id=&#34;placeholder-titlehttpsitchio-1&#34;&gt;&lt;a href=&#34;https://itch.io/&#34;&gt;Placeholder Title&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Summary of the game. Something that is a few sentences
+long and describes the hook and gameplay. 
+Something that&amp;rsquo;ll sell the players in on the experience.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+    &lt;img 
+	src=&#34;https://shutowl.github.io/images/monkey.gif&#34;  
+	alt=&#34;placeholder&#34;  
+	class=&#34;left&#34;  
+	style=&#34;float: right; margin: 1rem;&#34;  
+	width=&#34;400&#34; 
+	height=&#34;300&#34;
+	/&gt;
+
+
+&lt;/p&gt;
+&lt;h3 id=&#34;placeholder-titlehttpsitchio-2&#34;&gt;&lt;a href=&#34;https://itch.io/&#34;&gt;Placeholder Title&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Summary of the game. Something that is a few sentences
+long and describes the hook and gameplay. 
+Something that&amp;rsquo;ll sell the players in on the experience.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
     
     <item>

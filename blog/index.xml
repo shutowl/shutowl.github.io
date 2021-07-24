@@ -16,31 +16,72 @@
       <guid>https://shutowl.github.io/blog/image-resizing/</guid>
       <description>&lt;h5 id=&#34;posted-on-july-21-2021&#34;&gt;Posted on July 21, 2021&lt;/h5&gt;
 &lt;h3 id=&#34;image-resizing&#34;&gt;Image resizing&lt;/h3&gt;
-&lt;p&gt;&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;https://shutowl.github.io/images/pochigga.png&#34;
-         alt=&#34;pochita&#34; width=&#34;1000&#34; height=&#34;100&#34;/&gt;
-&lt;/figure&gt;
+&lt;p&gt;
+    &lt;img 
+	src=&#34;https://shutowl.github.io/images/pochigga.png&#34;  
+	alt=&#34;pochita&#34;  
+	class=&#34;left&#34;  
+	width=&#34;1000&#34; 
+	height=&#34;100&#34;
+	/&gt;
+
+
 
 I finally figured out how to resize images through Hugo shortcodes.
 I mean, just look at this &lt;em&gt;L O N G&lt;/em&gt; boi. He seems to be trapped in some 
 pretty strict margins, but it&amp;rsquo;s fine as it is.
 I can also make him a &lt;em&gt;T A L L&lt;/em&gt; boi too.
-&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;https://shutowl.github.io/images/pochigga.png&#34;
-         alt=&#34;pochita&#34; width=&#34;100&#34; height=&#34;300&#34;/&gt;
-&lt;/figure&gt;
+
+    &lt;img 
+	src=&#34;https://shutowl.github.io/images/pochigga.png&#34;  
+	alt=&#34;pochita&#34;  
+	class=&#34;left&#34;  
+	style=&#34;float: center;&#34;  
+	width=&#34;100&#34; 
+	height=&#34;300&#34;
+	/&gt;
+
+
 
 I can also position him properly:
-&lt;figure class=&#34;left&#34;&gt;&lt;img src=&#34;https://shutowl.github.io/images/pochigga.png&#34;
-         alt=&#34;pochita&#34; width=&#34;60&#34; height=&#34;60&#34;/&gt;
-&lt;/figure&gt;
+&lt;br&gt;
 
-&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;https://shutowl.github.io/images/pochigga.png&#34;
-         alt=&#34;pochita&#34; width=&#34;60&#34; height=&#34;60&#34;/&gt;
-&lt;/figure&gt;
+    &lt;img 
+	src=&#34;https://shutowl.github.io/images/pochigga.png&#34;  
+	alt=&#34;pochita&#34;  
+	class=&#34;left&#34;  
+	style=&#34;float: left;&#34;  
+	width=&#34;60&#34; 
+	height=&#34;60&#34;
+	/&gt;
 
-&lt;figure class=&#34;right&#34;&gt;&lt;img src=&#34;https://shutowl.github.io/images/pochigga.png&#34;
-         alt=&#34;pochita&#34; width=&#34;60&#34; height=&#34;60&#34;/&gt;
-&lt;/figure&gt;
 
+
+
+    &lt;img 
+	src=&#34;https://shutowl.github.io/images/pochigga.png&#34;  
+	alt=&#34;pochita&#34;  
+	class=&#34;left&#34;  
+	style=&#34;float: right;&#34;  
+	width=&#34;60&#34; 
+	height=&#34;60&#34;
+	/&gt;
+
+
+
+
+    &lt;img 
+	src=&#34;https://shutowl.github.io/images/pochigga.png&#34;  
+	alt=&#34;pochita&#34;  
+	class=&#34;left&#34;  
+	style=&#34;margin-left: auto; margin-right: auto; display: block;&#34;  
+	width=&#34;60&#34; 
+	height=&#34;60&#34;
+	/&gt;
+
+
+
+&lt;br&gt;
 This is the only image I have so far, but I&amp;rsquo;ll add some more later.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;soundcloud-embeds&#34;&gt;Soundcloud embeds&lt;/h3&gt;
