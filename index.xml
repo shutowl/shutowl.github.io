@@ -7,7 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 21 Jul 2021 19:36:18 -0700</lastBuildDate><atom:link href="https://shutowl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Jul 2021 19:11:06 -0700</lastBuildDate><atom:link href="https://shutowl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thinking About the Next Project</title>
+      <link>https://shutowl.github.io/blog/thinking-about-the-next-project/</link>
+      <pubDate>Sat, 24 Jul 2021 19:11:06 -0700</pubDate>
+      
+      <guid>https://shutowl.github.io/blog/thinking-about-the-next-project/</guid>
+      <description>&lt;h5 id=&#34;posted-on-july-24-2021&#34;&gt;Posted on July 24, 2021&lt;/h5&gt;
+&lt;h3 id=&#34;the-next-project&#34;&gt;The next project&amp;hellip;&lt;/h3&gt;
+&lt;p&gt;Now that I&amp;rsquo;ve got most of the website running and working (the art side
+can wait for another time), I think it&amp;rsquo;s about time
+I get working on some actual projects. It&amp;rsquo;s been a while since I&amp;rsquo;ve used
+Unity so I think it&amp;rsquo;s about time I get refreshed and get started on a game.
+I probably won&amp;rsquo;t be able to update the blog until I get some significant
+progress done and have some images/gifs to show for it. So with that said,
+onto the planning phase!&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Image Resizing and Soundcloud embeds</title>
       <link>https://shutowl.github.io/blog/image-resizing/</link>
@@ -120,20 +137,83 @@ on this website for now before diving into other things.&lt;/p&gt;
     </item>
     
     <item>
-      <title>About me - basically a resume</title>
+      <title>About me</title>
       <link>https://shutowl.github.io/about/</link>
       <pubDate>Mon, 19 Jul 2021 21:49:09 -0700</pubDate>
       
       <guid>https://shutowl.github.io/about/</guid>
-      <description>&lt;h3 id=&#34;profile&#34;&gt;Profile&lt;/h3&gt;
-&lt;p&gt;enter stuff here&lt;/p&gt;
-&lt;h3 id=&#34;point-2&#34;&gt;Point 2&lt;/h3&gt;
-&lt;p&gt;more stuff here&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Bullet point&lt;/li&gt;
-&lt;li&gt;Bullet point&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;point-3&#34;&gt;Point 3&lt;/h3&gt;</description>
+      <description>&lt;h3 id=&#34;who-are-you&#34;&gt;&lt;em&gt;Who are you?&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;Nice to meet you! My name&amp;rsquo;s Qicheng Shuto, but most people just call me Kenneth since it&amp;rsquo;s easier to pronouce.
+As of 2021, I&amp;rsquo;m a student majoring in CS, but I grew up making music and art on the side.&lt;/p&gt;
+&lt;h3 id=&#34;what-are-your-goals&#34;&gt;&lt;em&gt;What are your goals?&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;First off, I still need projects to fill this portfolio, so the priority will be small fleshed-out games.
+The art side of the page still needs to be worked on before I make it public and even before that I need
+some actual drawings too.&lt;/p&gt;
+&lt;h3 id=&#34;any-hobbies&#34;&gt;&lt;em&gt;Any hobbies?&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;Besides art and music, I&amp;rsquo;m just a nerd who plays games and uses &lt;a href=&#34;https://myanimelist.net/profile/kshut&#34;&gt;anime&lt;/a&gt; and JPop
+to learn Japanese. 
+すみませんでした。。。&lt;/p&gt;
+&lt;h3 id=&#34;why-shutowl-and-kshut&#34;&gt;&lt;em&gt;Why &amp;ldquo;shutowl&amp;rdquo; and &amp;ldquo;kshut&amp;rdquo;?&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;shutowl&amp;rdquo; just combines my last name &amp;ldquo;Shuto&amp;rdquo; and owl and pronouced like &amp;ldquo;shoo-towel&amp;rdquo;.
+I thought owls were pretty cool back in the day and I related quite a bit to them.&lt;br&gt;
+&lt;br&gt;
+&amp;ldquo;kshut&amp;rdquo; was a so-called &amp;ldquo;rapper name&amp;rdquo; that my friends came up with a long time ago.
+It also just combines my first and last name and it just kinda stuck with me.&lt;br&gt;
+&lt;br&gt;
+They&amp;rsquo;re both kinda dumb now that I think about it.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;h3 id=&#34;education&#34;&gt;&lt;em&gt;Education&lt;/em&gt;&lt;/h3&gt;
+&lt;dl&gt;
+&lt;dt&gt;&lt;strong&gt;California State Polytechnic University, Pomona&lt;/strong&gt;&lt;/dt&gt;
+&lt;dt&gt;B.S. Computer Science [Sept. 2017 - Current]&lt;/dt&gt;
+&lt;dt&gt;Relevant Coursework:&lt;/dt&gt;
+&lt;dd&gt;CS3310: CS Algorithms [Spring 2021]&lt;/dd&gt;
+&lt;dd&gt;CS4700: Game Development [Fall 2021]&lt;/dd&gt;
+&lt;dd&gt;CS4200: Artificial Intelligence [Fall 2021]&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h2 id=&#34;skills&#34;&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Code&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Art&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Music&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Java&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Clip Studio Paint&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;FL Studio&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;C#&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Paint Tool SAI&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Jazz Composition&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;C++&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Aseprite&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Chord Theory&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;HTML&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;CSS&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Unity&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
     
     <item>
@@ -439,7 +519,7 @@ position and resize must be done in html or css&lt;/p&gt;
     scrolling=&#34;no&#34;
     frameborder=&#34;no&#34;
     allow=&#34;autoplay&#34;
-    src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/559166565&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;
+    src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/709396066&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;
 &gt;&lt;/iframe&gt;
     &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
