@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on KShut&#39;s Portfolio</title>
+    <link>https://shutowl.github.io/game/</link>
+    <description>Recent content in Games on KShut&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 20 Aug 2021 14:18:28 -0700</lastBuildDate><atom:link href="https://shutowl.github.io/game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Reflect</title>
+      <link>https://shutowl.github.io/game/project-reflect/</link>
+      <pubDate>Fri, 20 Aug 2021 14:18:28 -0700</pubDate>
+      
+      <guid>https://shutowl.github.io/game/project-reflect/</guid>
+      <description>&lt;div style=&#34;text-align: center;&#34;&gt;
+	&lt;iframe
+		class=&#34;left&#34;  
+		style=&#34;margin-left: -130px;&#34;  
+		frameborder=&#34;0&#34; 
+		src=&#34;https://itch.io/embed-upload/4333509?color=333333&#34;
+		allowfullscreen=&#34;&#34; 
+		width=&#34;1024&#34; 
+		height=&#34;660&#34;
+		&gt;
+		&lt;a href=&#34;https://kshut.itch.io/project-reflect&#34;&gt;Play Project Reflect on itch.io&lt;/a&gt;
+	&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;pre&gt;&lt;code&gt;Controls:
+       WASD: Movement
+ Left Click: Reflect
+Right Click: Dash
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

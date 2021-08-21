@@ -7,7 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 20 Aug 2021 13:02:40 -0700</lastBuildDate><atom:link href="https://shutowl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Aug 2021 14:18:28 -0700</lastBuildDate><atom:link href="https://shutowl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Reflect</title>
+      <link>https://shutowl.github.io/game/project-reflect/</link>
+      <pubDate>Fri, 20 Aug 2021 14:18:28 -0700</pubDate>
+      
+      <guid>https://shutowl.github.io/game/project-reflect/</guid>
+      <description>&lt;div style=&#34;text-align: center;&#34;&gt;
+	&lt;iframe
+		class=&#34;left&#34;  
+		style=&#34;margin-left: -130px;&#34;  
+		frameborder=&#34;0&#34; 
+		src=&#34;https://itch.io/embed-upload/4333509?color=333333&#34;
+		allowfullscreen=&#34;&#34; 
+		width=&#34;1024&#34; 
+		height=&#34;660&#34;
+		&gt;
+		&lt;a href=&#34;https://kshut.itch.io/project-reflect&#34;&gt;Play Project Reflect on itch.io&lt;/a&gt;
+	&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;pre&gt;&lt;code&gt;Controls:
+       WASD: Movement
+ Left Click: Reflect
+Right Click: Dash
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
     <item>
       <title>Project Reflect</title>
       <link>https://shutowl.github.io/blog/project-reflect/</link>
@@ -353,7 +379,7 @@ They&amp;rsquo;re both kinda dumb now that I think about it.&lt;/p&gt;
 
 
 
-&lt;h3 id=&#34;placeholder-titlehttpsitchio&#34;&gt;&lt;a href=&#34;https://itch.io/&#34;&gt;Placeholder Title&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;project-reflecthahahugoshortcode-s1-hbhb&#34;&gt;&lt;a href=&#34;https://shutowl.github.io/game/project-reflect/&#34;&gt;Project Reflect&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Summary of the game. Something that is a few sentences
 long and describes the hook and gameplay. 
 Something that&amp;rsquo;ll sell the players in on the experience.&lt;/p&gt;
@@ -376,7 +402,7 @@ Something that&amp;rsquo;ll sell the players in on the experience.&lt;/p&gt;
 
 
 &lt;/p&gt;
-&lt;h3 id=&#34;placeholder-titlehttpsitchio-1&#34;&gt;&lt;a href=&#34;https://itch.io/&#34;&gt;Placeholder Title&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;placeholder-titlehttpsitchio&#34;&gt;&lt;a href=&#34;https://itch.io/&#34;&gt;Placeholder Title&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Summary of the game. Something that is a few sentences
 long and describes the hook and gameplay. 
 Something that&amp;rsquo;ll sell the players in on the experience.&lt;/p&gt;
@@ -399,7 +425,7 @@ Something that&amp;rsquo;ll sell the players in on the experience.&lt;/p&gt;
 
 
 &lt;/p&gt;
-&lt;h3 id=&#34;placeholder-titlehttpsitchio-2&#34;&gt;&lt;a href=&#34;https://itch.io/&#34;&gt;Placeholder Title&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;placeholder-titlehttpsitchio-1&#34;&gt;&lt;a href=&#34;https://itch.io/&#34;&gt;Placeholder Title&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Summary of the game. Something that is a few sentences
 long and describes the hook and gameplay. 
 Something that&amp;rsquo;ll sell the players in on the experience.&lt;/p&gt;
