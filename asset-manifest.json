@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.fdb8d356.css",
-    "main.js": "/static/js/main.ef5912cd.js",
+    "main.css": "/static/css/main.154163ce.css",
+    "main.js": "/static/js/main.c6e6373f.js",
     "static/js/787.d9a20797.chunk.js": "/static/js/787.d9a20797.chunk.js",
     "static/media/Overpass.ttf": "/static/media/Overpass.6c95df359adafa6d5b18.ttf",
     "index.html": "/index.html",
-    "main.fdb8d356.css.map": "/static/css/main.fdb8d356.css.map",
-    "main.ef5912cd.js.map": "/static/js/main.ef5912cd.js.map",
+    "main.154163ce.css.map": "/static/css/main.154163ce.css.map",
+    "main.c6e6373f.js.map": "/static/js/main.c6e6373f.js.map",
     "787.d9a20797.chunk.js.map": "/static/js/787.d9a20797.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdb8d356.css",
-    "static/js/main.ef5912cd.js"
+    "static/css/main.154163ce.css",
+    "static/js/main.c6e6373f.js"
   ]
 }
